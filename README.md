@@ -14,16 +14,20 @@
  2 . Membership Information
  3 . Personal Training
  4 . Feedback
- 5 . Extra shadow added to text.
+ 
 
 #### [Design]
  1 . background color always dark and cold (#555)
  2 . background image always dark and cold (url(paxels))
  3 . titles and paragraphs  adapt to beckground - color(rgb(255, 217, 0))
  4 . Logo  always left top . color (red)
+ 5 . Extra shadow added to text.
 
 #### [Wireframes]
-1 .![Alt text](images/.md.png)
+1 .![Alt text](/assets/images/.md.png)
+2 .![Alt text](assets/images/phone_screenshot.jpg)
+3 .![Alt text](assets/images/large_screenshoot.jpg)
+4 . 
 #### [Github repository] 
  1 .  https://github.com/balazsbarniy/Gym-Project
 

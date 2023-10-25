@@ -177,6 +177,38 @@
   font-size: smaller;
 }
 
+/* add box around text in "membership" */
+
+.bronze {
+  background-color: #4b4a4a9d;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  max-width: 850px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.silver {
+  background-color: #4b4a4a9d;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  max-width: 850px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.gold {
+  background-color: #4b4a4a9d;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  max-width: 850px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
 /* Personal Trainer */
 
 .grid {
@@ -217,11 +249,18 @@
 .intro,
 .name-text,
 .contact {
-  font-style: oblique;
+  font-style: bold;
   font-size: 38px; 
-  color: rgb(255, 217, 0);
+  color: rgb(224, 155, 65);
   text-shadow: 4px 4px 6px rgb(12, 14, 14);
+
 }
+/* add shadow for better visibility */
+
+.intro {
+text-shadow: 3px 3px 10px #0e0d0d;
+}
+
 
 /* Feedback */
 
