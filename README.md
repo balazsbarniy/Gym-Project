@@ -19,7 +19,7 @@
 * Added extra shadow to text
 
 ### [Wireframes]
-![Example Wireframe](/assets/images/wireframe.png)
+![Example Wireframe](/assets/images/.md.png)
 ![Phone Screen](/assets/images/phone_screenshot.jpg)
 ![Large Screen](/assets/images/large_screenshot.jpg)
 
@@ -36,7 +36,7 @@
 
 ### [Testing]
 * No errors found when passing through the official W3C validator
-![Validation Screenshot](assets/images/validation_screenshot.jpg)
+![Validation Screenshot](/assets/images/validation_1.jpg)
 
 ### [Media]
 * All images were obtained from open-source websites:
