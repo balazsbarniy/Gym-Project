@@ -110,12 +110,12 @@
   background-repeat: no-repeat;
   background-position: center;
 }
-.window {
+.window_1 {
   text-align: left;
   padding-top: 2cm;
   padding-left: 2cm;
   padding-right: 1cm;
-  color: rgb(9, 255, 0);
+  color: burlywood;
   font-size: 0.8cm;
   text-shadow: 4px 4px 8px rgb(0, 0, 0);
 }
@@ -128,7 +128,24 @@
   padding-bottom: 20px;
   margin-bottom: 20px;
 }
-
+.window_2 {
+  text-align: left;
+  padding-top: 2cm;
+  padding-left: 2cm;
+  padding-right: 1cm;
+  color: cornsilk;
+  font-size: 0.8cm;
+  text-shadow: 4px 4px 8px rgb(0, 0, 0);
+}
+.window_3 {
+  text-align: left;
+  padding-top: 2cm;
+  padding-left: 2cm;
+  padding-right: 1cm;
+  color: gold;
+  font-size: 0.8cm;
+  text-shadow: 4px 4px 8px rgb(0, 0, 0);
+}
 /* membership */
 .membership-info {
   background-image: url("/assets/images/class_background.webp");
