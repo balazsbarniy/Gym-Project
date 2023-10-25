@@ -19,7 +19,8 @@
 * Added extra shadow to text
 
 ### [Wireframes]
-![Example Wireframe](/assets/images/.md.png)
+
+![ex](/assets/images/.md.png)
 ![Phone Screen](/assets/images/phone_screenshot.jpg)
 ![Large Screen](/assets/images/large_screenshoot.jpg)
 
