@@ -38,6 +38,8 @@
   cursor: pointer;
 }
 
+/*    hamburger menu      */
+
 .hamburger {
   display: block;
   width: 25px;

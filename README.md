@@ -21,7 +21,7 @@
 ### [Wireframes]
 ![Example Wireframe](/assets/images/.md.png)
 ![Phone Screen](/assets/images/phone_screenshot.jpg)
-![Large Screen](/assets/images/large_screenshot.jpg)
+![Large Screen](/assets/images/large_screenshoot.jpg)
 
 ### [GitHub Repository](https://github.com/balazsbarniy/Gym-Project)
 
