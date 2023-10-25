@@ -6,9 +6,9 @@
     <link rel="stylesheet" href="style/style.css" type="text/css" >
     <title>Red Gym</title>
   </head>
-  <!--navbar-->
+
   <body>
-    <nav class="navbar">
+    <div class="navbar">
       <input type="checkbox" id="navbar-toggle" >
       <label for="navbar-toggle" class="menu-icon">
         <span class="hamburger"></span>
@@ -19,25 +19,18 @@
         <li><a href="personaltr.html">Personal trainer</a></li>
         <li><a href="feedback.html">Feedback</a></li>
       </ul>
-    </nav>
-    <h1 class="logo">Red Gym</h1>
-    <!--content-->
-    <div class="index-background">
-      <h3 class="window">
-        "Welcome to a place where your fitness goals become a reality."
-      </h3>
-      <h3 class="window">
-        "Get ready to challenge yourself and unleash your full potential at our
-        Gym."
-      </h3>
-      <h3 class="window">
-        "Step into our Gym and embark on a journey to a healthier and stronger
-        you."
-      </h3>
     </div>
 
-    <footer>
-      <p>2023 RedGym. All rights reserved.</p>
-    </footer>
+    <!--content-->
+    <div class="form-background">
+      <div class="feedback-section">
+        <h2>Feedback</h2>
+        <p>We value your feedback! Please share your thoughts with us:</p>
+        <form action="index.html" method="post">
+          <textarea name="feedback" id="feedback" rows="5" placeholder="Enter your feedback"></textarea>
+          <input type="submit" value="Submit Feedback" class="btn">
+        </form>
+      </div>
+    </div>
   </body>
 </html>
