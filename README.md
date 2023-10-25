@@ -24,17 +24,17 @@
  5 . Extra shadow added to text.
 
 #### [Wireframes]
-1 .![Alt text](/assets/images/.md.png)
-2 .![Alt text](assets/images/phone_screenshot.jpg)
-3 .![Alt text](assets/images/large_screenshoot.jpg)
-4 . 
+1 .![example](/assets/images/.md.png)
+2 .![Phone size](assets/images/phone_screenshot.jpg)
+3 .![Large screen](assets/images/large_screenshoot.jpg)
+
 #### [Github repository] 
  1 .  https://github.com/balazsbarniy/Gym-Project
 
 ## [Features]
  1 . Responsive on all device size
  2 . Clear navigation
- 3 . 
+
 
 #### [Language used]
  1 . html
@@ -42,6 +42,7 @@
 
 #### [Testing]
  1 . No errors were found when passing through the official W3C validator
+  ![validation]
 
 #### [Media]
  1 . All images were taken from open source site. - "shutterstock" <https://www.shutterstock.com/>
