@@ -14,6 +14,7 @@
  2 . Membership Information
  3 . Personal Training
  4 . Feedback
+ 5 . Extra shadow added to text.
 
 #### [Design]
  1 . background color always dark and cold (#555)
@@ -29,7 +30,7 @@
 ## [Features]
  1 . Responsive on all device size
  2 . Clear navigation
- 
+ 3 . 
 
 #### [Language used]
  1 . html
