@@ -1,54 +1,48 @@
-## Gym-Project
- #### First project.Gym website
+# Gym Project
+### My First Gym Website
 
-* This is a Gym README file. 
-* this is my first readme. 
-*   basic html and css  website.
-*   Red Gym
+*This is a README file for a basic HTML and CSS gym website.*
 
 ## Table of Contents
 
-#### [User-experience]
- 
- * Home Page: Our home page serves as a welcoming page  to our gym.
- * Membership Information
- * Personal Training
- * Feedback
- 
+### [User Experience]
+* Home Page: Our welcoming gym homepage.
+* Membership Information
+* Personal Training
+* Feedback
 
-#### [Design]
- * Background color always dark and cold (#555)
- * Background image always dark and cold (url(paxels))
- * Titles and paragraphs  adapt to beckground
- * Logo  always left top . color (red)
- * Extra shadow added to text.
+### [Design]
+* Dark and cold background color (#555)
+* Dark and cold background image (URL: [Pexels](https://www.pexels.com))
+* Titles and paragraphs adapt to the background
+* Logo positioned in the top left, colored in red
+* Added extra shadow to text
 
-#### [Wireframes]
-* ![example](/assets/images/.md.png)
-* ![Phone size](assets/images/phone_screenshot.jpg)
-* ![Large screen](assets/images/large_screenshoot.jpg)
+### [Wireframes]
+![Example Wireframe](/assets/images/wireframe.png)
+![Phone Screen](/assets/images/phone_screenshot.jpg)
+![Large Screen](/assets/images/large_screenshot.jpg)
 
-#### [Github repository] 
- *  https://github.com/balazsbarniy/Gym-Project
+### [GitHub Repository](https://github.com/balazsbarniy/Gym-Project)
 
-## [Features]
- * Responsive on all device size
- * Clear navigation
- * Navbar created in top-left corner
+## Features
+* Responsive design for all device sizes
+* Clear navigation
+* Navbar positioned in the top-left corner
 
-#### [Language used]
- * html
- * css
+### [Languages Used]
+* HTML
+* CSS
 
-#### [Testing]
- * No errors were found when passing through the official W3C validator
- * ![validation](assets/images/validation_1.jpg)
+### [Testing]
+* No errors found when passing through the official W3C validator
+![Validation Screenshot](assets/images/validation_screenshot.jpg)
 
-#### [Media]
- * All images were taken from open source site. - "shutterstock" <https://www.shutterstock.com/>
-                                                  - "Unspalsh" https://unsplash.com/backgrounds/apps/website
-                                                  - "Pexels" https://www.pexels.com/search/gym/
-                              
-## [Content]
- * All the content was write by creator (with help of google translate)
- 
+### [Media]
+* All images were obtained from open-source websites:
+  - [Shutterstock](https://www.shutterstock.com/)
+  - [Unsplash](https://unsplash.com/backgrounds/apps/website)
+  - [Pexels](https://www.pexels.com/search/gym/)
+
+### [Content]
+* All content was written by the creator (with the assistance of Google Translate)
